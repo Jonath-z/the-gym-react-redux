@@ -1,4 +1,4 @@
-# Redux project
+# The gym react redux
 This is a sample project showing how to use redux and redux tool kit to manage states in react.
 
 ## Tech stack
