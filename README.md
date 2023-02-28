@@ -20,5 +20,5 @@ git clone https://github.com/Jonath-z/the-gym-react-redux/
 npm start
 ```
 
-## Auhor
+## Author
 Jonathan Z.
